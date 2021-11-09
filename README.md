@@ -8,4 +8,4 @@ This is a collection of scripts I submitted to complete Data Manipulation at Sca
 4. top_ten_hashtags_.py (same input as above, prints out the ten top hashtags mentioned)
 
 The sentiment estimations were done using AFINN-111 scores as reference. The very basic sentiment analysis indeed :')
-Twitter streaming data were collected using Tweepy.
+Twitter streaming data were collected using Tweepy. All scripts run in command line
